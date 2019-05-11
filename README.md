@@ -1,2 +1,0 @@
-# freedom
-Created with CodeSandbox
